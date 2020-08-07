@@ -26,4 +26,4 @@ Expense Sorting By Date
 ### What I'll Have to Learn
 I have to learn how to track expenses by date
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/2z6YlHdh
