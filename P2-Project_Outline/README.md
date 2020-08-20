@@ -24,6 +24,6 @@ Expense Sorting By Date
     Thymeleaf templates
 
 ### What I'll Have to Learn
-I have to learn how to track expenses by date
+I have to learn how to track expenses by Month
 ### Project Tracker
 https://trello.com/b/2z6YlHdh
